@@ -6,6 +6,12 @@ netbeans jFrame을 이용하여 GUI를 만들고 더하여 서버 수업시간�
 
 ---
 
+### 개발 부분
+
+- Mysql 연동, AWS서버 연동
+- Gmail SMTP 메일 연동 
+---
+
 ### 실행화면
 
 ● 초기화면 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ● 로그인창 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ● 회원가입창
